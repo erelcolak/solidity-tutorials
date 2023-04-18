@@ -1,5 +1,7 @@
 # Solidity ile Twitter Clone Uygulaması - Smart Contract Development
 
+![Frame 1](https://user-images.githubusercontent.com/13097272/232843658-4d7f403f-5b67-4fbb-8cd4-e006535dd335.jpg)
+
 **YouTube üzerinden izleyin**
 
 [Solidity ile Twitter Clone Uygulaması - Smart Contract Development](https://www.youtube.com/watch?v=lodOx921XXc)
