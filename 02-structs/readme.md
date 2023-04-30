@@ -1,6 +1,6 @@
 # Solidity Dersleri - Struct - Smart Contract Development
 
-![Frame 1](https://user-images.githubusercontent.com/13097272/235267214-ee71d73f-de1e-4318-b404-85c463cc7568.jpg)
+![solidity-struct](https://user-images.githubusercontent.com/13097272/235329595-6c88c549-746e-4293-8389-d29ccf017bac.jpg)
 
 **YouTube üzerinden izleyin**
 
