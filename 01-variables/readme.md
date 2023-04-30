@@ -1,6 +1,6 @@
 # Solidity Dersleri - Değişkenler ve Değişken Türleri - Smart Contract Development
 
-![Frame 1](https://user-images.githubusercontent.com/13097272/234135237-9932a596-eee7-4dd4-b566-fad2701c299f.jpg)
+![solidity-degiskenler](https://user-images.githubusercontent.com/13097272/235329625-e75c14ed-6509-409e-8a0d-e305f9d7e598.jpg)
 
 **YouTube üzerinden izleyin**
 
