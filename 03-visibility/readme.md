@@ -1,6 +1,6 @@
 # Solidity Dersleri - Visibility - Smart Contract Development
 
-![visibility](https://github.com/erelcolak/solidity-tutorials/assets/13097272/741976e2-3946-432a-b430-37798f71dbbf)
+![solidity-visibility](https://github.com/erelcolak/solidity-tutorials/assets/13097272/1f5f22c0-ee30-493d-922f-41118e453313)
 
 **YouTube üzerinden izleyin**
 
