@@ -1,6 +1,6 @@
 # Solidity Dersleri - Modifier Kullanımı - Smart Contract Development
 
-![fonksiyonlar](https://github.com/erelcolak/solidity-tutorials/assets/13097272/95d749aa-7b36-46d8-a0ce-3eb02ea13943)
+![Modifier](https://github.com/erelcolak/solidity-tutorials/assets/13097272/80279c18-c041-4027-8e0c-20f5b0891b2f)
 
 **YouTube üzerinden izleyin**
 
