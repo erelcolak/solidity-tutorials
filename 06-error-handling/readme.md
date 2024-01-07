@@ -1,6 +1,6 @@
 # Solidity Dersleri - require, revert ve assert kullanımı - Error Handling - Smart Contract Development
 
-![require, revert ve assert kullanımı]([https://github.com/erelcolak/solidity-tutorials/assets/13097272/80279c18-c041-4027-8e0c-20f5b0891b2f](https://github.com/erelcolak/solidity-tutorials/assets/13097272/94d8fe98-c25e-4ff8-994f-b4bbd4906203))
+![require, revert ve assert kullanımı](https://github.com/erelcolak/solidity-tutorials/assets/13097272/94d8fe98-c25e-4ff8-994f-b4bbd4906203)
 
 **YouTube üzerinden izleyin**
 
